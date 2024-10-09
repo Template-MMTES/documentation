@@ -28,12 +28,13 @@ Exemplos:
 ▪ Controle de caixa – é o processo onde ....
 ▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos
 
-## Requisitos
+## Requisitos ou História de Usuário
 < Comentário: Aqui serão descritos os requisitos funcionais e não funcionais do
 sistema a ser implementado. Os requisitos, em geral, refletem funções que o usuário
 precisa realizar para atingir o objetivo do sistema ou funções de apoio à estratégia
 do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos típicos.
 Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
+O grupo pode optar por usar história de usuário.
 
    ### Requisitos Funcionais
    perceptível do sistema pelos usuários. Telas, informações, relatórios, fluxo de
